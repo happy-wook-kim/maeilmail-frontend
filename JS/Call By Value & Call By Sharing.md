@@ -30,6 +30,7 @@ console.log(a, b, c); // ?
 
 **c: { c: 'changed' }**
 
+***
 
 a는 call by value 로 값의 복사본이 생긴 케이스이므로 함수 내부 a가 변경되어도 함수 외부 a에 영향을 주지 않습니다.
 
