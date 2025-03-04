@@ -1,3 +1,4 @@
+```
 function change(a, b, c) {
     a = 'a changed'
     b = { b: 'changed' };
@@ -11,8 +12,7 @@ let c = { c: 'unchanged' };
 change(a, b, c);
 
 console.log(a, b, c); // ?
-
-
+```
 
 
 
