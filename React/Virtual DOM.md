@@ -1,4 +1,4 @@
-## Virtual Dom
+## Virtual DOM
 
 버츄얼 돔은 리액트에서 화면을 효율적으로 렌더링하기 위한 개념입니다. DOM의 가벼운 복사본으로 메모리에 존재하는 Javascript 객체 트리입니다.
 
