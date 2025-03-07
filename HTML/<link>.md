@@ -14,7 +14,7 @@ DNS 조회, TCP 핸드셰이크, TLS 협상 등 연결 설정 과정을 미리 �
 CDN과 같이 많은 리소스를 외부에서 가져올 때 유용합니다. 이때, 리소스 자체를 로드하는 것은 아니고 연결만 미리 준비합니다.
 
 ```
-<link rel="preconnect" href="https://cdn.example.com" />
+<link rel="preconnect" href="https://cdn.example.com" crossorigin="anonymous" />
 ```
 
 **preload**
@@ -22,7 +22,7 @@ CDN과 같이 많은 리소스를 외부에서 가져올 때 유용합니다. �
 현재 페이지에서 즉시 사용도는 중요한 리소스를 우선적으로 다운로드하도록 브라우저에 지시합니다.
 `as`속성을 사용하여 리소스 종류를 명시해야 합니다. (Javascript, CSS, 웹폰트 등)페이지 로딩 속도를 향상시키고자 사용합니다.
 ```
-<link rel="preload" href="/utils/common.ts" as="script" />
+<link rel="preload" href="/fonts/my-font.woff2" as="font" />
 ```
 
 **prefetch**
@@ -30,7 +30,7 @@ CDN과 같이 많은 리소스를 외부에서 가져올 때 유용합니다. �
 다음 방문할 수 있는 페이지에서 사용될 리소스를 백그라운드에서 미리 다운로드하여 캐시에 저장합니다.
 페이지 간 이동 속도를 향상시켜 사용자 경험을 개선합니다.
 ```
-<link rel="prefetch" href="/next-page.html" />
+<link rel="prefetch" href="/next-page.css" />
 ```
 
 
