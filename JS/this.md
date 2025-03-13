@@ -53,7 +53,7 @@ greet.call({ name: "Bob" }); // Hello, Bob
 
 `this`는 함수가 호출되는 방식에 따른 값의 변경 예시를 설명하겠습니다.
 
-1. 전역 호출
+#### 1. 전역 호출
 
 전역에서 함수가 호출되면, `this`는 **전역 객체**를 참조합니다.
 ```
@@ -63,7 +63,7 @@ function globalFunction() {
 globalFunction(); // 브라우저: window, Node.js: global
 ```
 
-2. 메서드 호출
+#### 2. 메서드 호출
 
 객체의 메서드로 호출된 함수에서는 `this`가 **해당 객체**를 참조합니다.
 ```
@@ -76,7 +76,7 @@ const person = {
 person.hello(); // Selly
 ```
 
-3. 생성자 함수와 클래스
+#### 3. 생성자 함수와 클래스
 
 생성자 함수나 클래스에서 `this`는 **새로 생성되는 객체, 인스턴스**를 참조합니다.
 ```
@@ -87,7 +87,7 @@ const person = new Person('Selly');
 console.log(person.name); // Selly
 ```
 
-4. 명시적 바인딩
+#### 4. 명시적 바인딩
 
 `call()`, `apply()`, `bind()` 메서드를 사용하면 `this`를 명시적으로 바인딩할 수 있습니다.
 ```
@@ -98,7 +98,7 @@ const user = { name: "Selly" };
 greet.call(user); // Selly
 ```
 
-5. 화살표 함수
+#### 5. 화살표 함수
 
 화살표 함수는 **상위 스코프의 `this`값을 상속**받습니다. 
 ```
@@ -108,7 +108,7 @@ const person = {
 };
 ```
 
-6. 이벤트 핸들러
+#### 6. 이벤트 핸들러
 
 이벤트 핸들러에서는 `this`는 일반적으로 **이벤트를 발생시킨 DOM 요소**를 참조합니다.
 ```
