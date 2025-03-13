@@ -33,111 +33,7 @@ function add(a, b) {
 const add = (a, b) => a + b;
 ```
 
-### 3. 템플릿 리터럴
-
-새로운 문자열 표기법으로 **백틱(`)**을 사용하여 문자열 내에 변수나 표현식을 편리하게 작성할 수 있습니다.
-
-```
-const name = 'Selly';
-const color = 'Black';
-
-// 템플릿 리터럴 사용
-const message = `Hello. My name is ${name} and I love ${color} color.
-Thanks a lot.`;
-
-console.log(message) // Hello. My name is Selly and I love Black color.
-```
-
-### 4. 객체 리터럴 확장
-
-객체에서도 리터럴을 사용할 수 있습니다. 객체 속성명과 변수명이 같을 때 속성명을 생략할 수 있고, 객체의 속성명을 동적으로 받을 수 있습니다.
-```
-const name = "Bob";
-const age = "20";
-const key = "Question";
-
-const person = {
-  name,
-  age,
-  [key]: "What is React?"
-}
-```
-
-### 5. 구조 분해 할당
-
-배열이나 객체를 분해하여 값을 쉽게 추출하여 변수에 할당할 수 있습니다.
-```
-// 배열 구조 분해
-const fruit = ['banana', 'orange', 'apple'];
-const [first, second, third] = fruit;
-console.log(first, second, third); // banana orange apple
-
-// 객체 구조 분해
-const user = { id: 12, userName: "Selly" };
-const { id, userName } = user;
-```
-
-### 6. 전개 연산자
-
-`...`을 사용하여 배열이나 객체를 확장하거나 펼치는데 사용합니다. 이를 사용하여 배열이나 객체의 요소를 추출하거나 복제하여 다른 배열이나 객체에 포함시킬 수 있습니다.
-```
-// 배열 복제
-const arr1 = [1, 2, 3];
-const arr2 = [...arr1];
-console.log(arr1, arr2); // [1, 2, 3] [1, 2, 3]
-
-// 객체 병합
-const obj1 = { a: 1, b: 2 };
-const obj2 = { c: 3, d: 4 };
-const mergedObj = { ...obj1, ...obj2 };
-console.log(mergedObj); // { a: 1, b: 2, c: 3, d: 4 }
-```
-
-### 7. 모듈
-
-`import` `export`를 사용하여 코드를 모듈 단위로 분리하고 재사용할 수 있습니다. 
-```
-// utils.js
-export function add(a, b) {
-  return a + b;
-}
-
-// main.js
-import { add } from "../utils.js";
-
-const sum = add(3, 4);
-console.log(sum); // 7
-```
-
-### 8. 프로미스
-
-Promis는 비동기 작업의 최종 성공 또는 실패를 나타내는 객체입니다. 콜백 지옥을 해결하기 위해 만들어졌습니다. 비동기 코드를 더 깔끔하고 가독성 좋게 작성할 수 있습니다.
-```
-function fetchData() {
-  return new Promise((resolve, reject) => {
-    setTimeout(() => {
-      const data = { message: "Success" };
-      // 성공
-      resolve(data);
-
-      // 실패
-      // reject(new Error("Failed"));
-    });
-  });
-}
-```
-
-### 9. 파라미터 기본값
-
-함수의 파라미터에 기본값을 부여할 수 있습니다.
-```
-const addMoney = (money, add = 100) => {
-  console.log(money + add);
-}
-addMoney(100); // 200
-```
-
-### 10. 클래스
+### 3. 클래스
 
 `class` 키워드를 사용해 클래스를 정의하고 상속, 생성자, 메서드 등을 구현할 수 있습니다. 
 ```
@@ -156,6 +52,110 @@ class Person {
 
 const person = new Person("kim", 20);
 person.speak(); // kim: hello!
+```
+
+### 4. 템플릿 리터럴
+
+새로운 문자열 표기법으로 **백틱(`)**을 사용하여 문자열 내에 변수나 표현식을 편리하게 작성할 수 있습니다.
+
+```
+const name = 'Selly';
+const color = 'Black';
+
+// 템플릿 리터럴 사용
+const message = `Hello. My name is ${name} and I love ${color} color.
+Thanks a lot.`;
+
+console.log(message) // Hello. My name is Selly and I love Black color.
+```
+
+### 5. 객체 리터럴 확장
+
+객체에서도 리터럴을 사용할 수 있습니다. 객체 속성명과 변수명이 같을 때 속성명을 생략할 수 있고, 객체의 속성명을 동적으로 받을 수 있습니다.
+```
+const name = "Bob";
+const age = "20";
+const key = "Question";
+
+const person = {
+  name,
+  age,
+  [key]: "What is React?"
+}
+```
+
+### 6. 프로미스
+
+Promis는 비동기 작업의 최종 성공 또는 실패를 나타내는 객체입니다. 콜백 지옥을 해결하기 위해 만들어졌습니다. 비동기 코드를 더 깔끔하고 가독성 좋게 작성할 수 있습니다.
+```
+function fetchData() {
+  return new Promise((resolve, reject) => {
+    setTimeout(() => {
+      const data = { message: "Success" };
+      // 성공
+      resolve(data);
+
+      // 실패
+      // reject(new Error("Failed"));
+    });
+  });
+}
+```
+
+### 7. 구조 분해 할당
+
+배열이나 객체를 분해하여 값을 쉽게 추출하여 변수에 할당할 수 있습니다.
+```
+// 배열 구조 분해
+const fruit = ['banana', 'orange', 'apple'];
+const [first, second, third] = fruit;
+console.log(first, second, third); // banana orange apple
+
+// 객체 구조 분해
+const user = { id: 12, userName: "Selly" };
+const { id, userName } = user;
+```
+
+### 8. 전개 연산자
+
+`...`을 사용하여 배열이나 객체를 확장하거나 펼치는데 사용합니다. 이를 사용하여 배열이나 객체의 요소를 추출하거나 복제하여 다른 배열이나 객체에 포함시킬 수 있습니다.
+```
+// 배열 복제
+const arr1 = [1, 2, 3];
+const arr2 = [...arr1];
+console.log(arr1, arr2); // [1, 2, 3] [1, 2, 3]
+
+// 객체 병합
+const obj1 = { a: 1, b: 2 };
+const obj2 = { c: 3, d: 4 };
+const mergedObj = { ...obj1, ...obj2 };
+console.log(mergedObj); // { a: 1, b: 2, c: 3, d: 4 }
+```
+
+### 9. 모듈
+
+`import` `export`를 사용하여 코드를 모듈 단위로 분리하고 재사용할 수 있습니다. 
+```
+// utils.js
+export function add(a, b) {
+  return a + b;
+}
+
+// main.js
+import { add } from "../utils.js";
+
+const sum = add(3, 4);
+console.log(sum); // 7
+```
+
+### 10. 파라미터 기본값
+
+함수의 파라미터에 기본값을 부여할 수 있습니다.
+```
+const addMoney = (money, add = 100) => {
+  console.log(money + add);
+}
+addMoney(100); // 200
 ```
 
 이 외에도 수많은 변경점이 있습니다. 자세한 사항은 [link](https://262.ecma-international.org/6.0/)에서 확인할 수 있습니다.
