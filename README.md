@@ -14,6 +14,7 @@
 ### HTML (2)
 1. [`<link>`](https://github.com/happy-wook-kim/maeilmail/blob/main/HTML/%3Clink%3E.md)
 2. [Semantic Markup](https://github.com/happy-wook-kim/maeilmail/blob/main/HTML/Semantic%20Markup.md)
+3. [`<script>` async defer 속성](https://github.com/happy-wook-kim/maeilmail/blob/main/HTML/%3Cscript%3E%20async%26defer.md)
 
 ### TS (2)
 1. [Type vs Interface](https://github.com/happy-wook-kim/maeilmail/blob/main/TS/Type%26Interface.md)
