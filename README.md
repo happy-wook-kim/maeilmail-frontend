@@ -22,3 +22,6 @@
 
 ### Network
 1. [HTTP](https://github.com/happy-wook-kim/maeilmail/blob/main/NETWORK/HTTP.md)
+
+### Web
+1. [이미지 최적화](https://github.com/happy-wook-kim/maeilmail/blob/main/Web/image%20optimization.md)
