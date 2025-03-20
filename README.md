@@ -7,7 +7,7 @@
 2. [this](https://github.com/happy-wook-kim/maeilmail/blob/main/JS/this.md)
 3. [ES6](https://github.com/happy-wook-kim/maeilmail/blob/main/JS/ES6.md)
 
-### React
+### REACT
 1. [Virtual DOM](https://github.com/happy-wook-kim/maeilmail/blob/main/React/Virtual%20DOM.md)
 2. [useEffect](https://github.com/happy-wook-kim/maeilmail/blob/main/React/useEffect.md)
 
@@ -20,8 +20,8 @@
 1. [Type vs Interface](https://github.com/happy-wook-kim/maeilmail/blob/main/TS/Type%26Interface.md)
 2. [타입스크립트를 사용하는 이유](https://github.com/happy-wook-kim/maeilmail/blob/main/TS/Why%20does%20TypeScrip%20exist.md)
 
-### Network
+### NETWORK
 1. [HTTP](https://github.com/happy-wook-kim/maeilmail/blob/main/NETWORK/HTTP.md)
 
-### Web
-1. [이미지 최적화](https://github.com/happy-wook-kim/maeilmail/blob/main/Web/image%20optimization.md)
+### WEB
+1. [이미지 최적화](https://github.com/happy-wook-kim/maeilmail/blob/main/WEB/image%20optimization.md)
