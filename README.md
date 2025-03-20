@@ -24,4 +24,4 @@
 1. [HTTP](https://github.com/happy-wook-kim/maeilmail/blob/main/NETWORK/HTTP.md)
 
 ### WEB
-1. [이미지 최적화](https://github.com/happy-wook-kim/maeilmail/blob/main/WEB/image%20optimization.md)
+1. [이미지 최적화](https://github.com/happy-wook-kim/maeilmail/blob/main/WEB/Image%20Optimization.md)
