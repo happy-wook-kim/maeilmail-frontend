@@ -25,3 +25,4 @@
 
 ### WEB
 1. [이미지 최적화](https://github.com/happy-wook-kim/maeilmail/blob/main/WEB/Image%20Optimization.md)
+2. [웹 접근성](https://github.com/happy-wook-kim/maeilmail/blob/main/WEB/Web%20Accessibility.md)
