@@ -8,8 +8,8 @@
 3. [ES6](https://github.com/happy-wook-kim/maeilmail/blob/main/JS/ES6.md)
 
 ### REACT
-1. [Virtual DOM](https://github.com/happy-wook-kim/maeilmail/blob/main/React/Virtual%20DOM.md)
-2. [useEffect](https://github.com/happy-wook-kim/maeilmail/blob/main/React/useEffect.md)
+1. [Virtual DOM](https://github.com/happy-wook-kim/maeilmail/blob/main/REACT/Virtual%20DOM.md)
+2. [useEffect](https://github.com/happy-wook-kim/maeilmail/blob/main/REACT/useEffect.md)
 
 ### HTML
 1. [`<link>`](https://github.com/happy-wook-kim/maeilmail/blob/main/HTML/%3Clink%3E.md)
