@@ -29,5 +29,5 @@
 3. [`<script>` async defer 속성](https://github.com/happy-wook-kim/maeilmail/blob/main/HTML/%3Cscript%3E%20async%26defer.md)
 
 ### TS
-1. [Type vs Interface](https://github.com/happy-wook-kim/maeilmail/blob/main/TS/Type%26Interface.md)
-2. [타입스크립트를 사용하는 이유](https://github.com/happy-wook-kim/maeilmail/blob/main/TS/Why%20does%20TypeScrip%20exist.md)
+1. [타입스크립트를 사용하는 이유](https://github.com/happy-wook-kim/maeilmail/blob/main/TS/Why%20does%20TypeScrip%20exist.md)
+2. [Type vs Interface](https://github.com/happy-wook-kim/maeilmail/blob/main/TS/Type%26Interface.md)
