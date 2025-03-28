@@ -13,6 +13,7 @@
 ### REACT
 1. [Virtual DOM](https://github.com/happy-wook-kim/maeilmail/blob/main/REACT/Virtual%20DOM.md)
 2. [useEffect](https://github.com/happy-wook-kim/maeilmail/blob/main/REACT/useEffect.md)
+3. [key 값에 index를 사용하면 안되는 이유](https://github.com/happy-wook-kim/maeilmail/blob/main/REACT/React%20Array%20Key.md)
 
 ### NETWORK
 1. [HTTP](https://github.com/happy-wook-kim/maeilmail/blob/main/NETWORK/HTTP.md)
