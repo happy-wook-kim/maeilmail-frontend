@@ -23,9 +23,6 @@
 2. [웹 접근성](https://github.com/happy-wook-kim/maeilmail/blob/main/WEB/Web%20Accessibility.md)
 3. [웹 성능 최적화](https://github.com/happy-wook-kim/maeilmail/blob/main/WEB/Web%20Performance%20Optimization.md)
 
-### SECURITY
-1. [JWT](https://github.com/happy-wook-kim/maeilmail/blob/main/SECURITY/JWT.md)
-
 ### HTML
 1. [`<link>`](https://github.com/happy-wook-kim/maeilmail/blob/main/HTML/%3Clink%3E.md)
 2. [Semantic Markup](https://github.com/happy-wook-kim/maeilmail/blob/main/HTML/Semantic%20Markup.md)
@@ -34,3 +31,7 @@
 ### TS
 1. [타입스크립트를 사용하는 이유](https://github.com/happy-wook-kim/maeilmail/blob/main/TS/Why%20does%20TypeScrip%20exist.md)
 2. [Type vs Interface](https://github.com/happy-wook-kim/maeilmail/blob/main/TS/Type%26Interface.md)
+
+### ETC
+1. [JWT](https://github.com/happy-wook-kim/maeilmail/blob/main/SECURITY/JWT.md)
+2. [Yarn & PNPM](https://github.com/happy-wook-kim/maeilmail/blob/main/ETC/PNPM%20%26%20Yarn%20Berry.md)
