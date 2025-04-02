@@ -35,5 +35,5 @@
 2. [Type vs Interface](https://github.com/happy-wook-kim/maeilmail/blob/main/TS/Type%26Interface.md)
 
 ### ETC
-1. [JWT](https://github.com/happy-wook-kim/maeilmail/blob/main/SECURITY/JWT.md)
+1. [JWT](https://github.com/happy-wook-kim/maeilmail/blob/main/ETC/JWT.md)
 2. [Yarn & PNPM](https://github.com/happy-wook-kim/maeilmail/blob/main/ETC/PNPM%20%26%20Yarn%20Berry.md)
