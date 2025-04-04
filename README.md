@@ -17,6 +17,7 @@
 2. [useEffect](https://github.com/happy-wook-kim/maeilmail/blob/main/REACT/useEffect.md)
 3. [key 값에 index를 사용하면 안되는 이유](https://github.com/happy-wook-kim/maeilmail/blob/main/REACT/React%20Array%20Key.md)
 4. [상태 관리](https://github.com/happy-wook-kim/maeilmail/blob/main/REACT/State%20Management.md)
+5. [Error Boundary](https://github.com/happy-wook-kim/maeilmail/blob/main/REACT/Error%20Boundary.md)
 
 ### NETWORK
 1. [HTTP](https://github.com/happy-wook-kim/maeilmail/blob/main/NETWORK/HTTP.md)
