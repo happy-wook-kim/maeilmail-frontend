@@ -29,6 +29,7 @@
 2. [웹 접근성](https://github.com/happy-wook-kim/maeilmail/blob/main/WEB/Web%20Accessibility.md)
 3. [웹 성능 최적화](https://github.com/happy-wook-kim/maeilmail/blob/main/WEB/Web%20Performance%20Optimization.md)
 4. [SSR](https://github.com/happy-wook-kim/maeilmail/blob/main/WEB/SSR.md)
+5. [CORS](https://github.com/happy-wook-kim/maeilmail/blob/main/WEB/CORS.md)
 
 ### HTML
 1. [`<link>`](https://github.com/happy-wook-kim/maeilmail/blob/main/HTML/%3Clink%3E.md)
