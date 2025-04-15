@@ -11,7 +11,7 @@
 6. [얕은 복사 & 깊은 복사](https://github.com/happy-wook-kim/maeilmail/blob/main/JS/Deep%20Copy%20%26%20Shallow%20Copy.md)
 7. [CJS & ESM](https://github.com/happy-wook-kim/maeilmail/blob/main/JS/CommonJS%20%26%20ES%20Module.md)
 8. [Closure](https://github.com/happy-wook-kim/maeilmail/blob/main/JS/Closure.md)
-9. [Event Loop](https://github.com/happy-wook-kim/maeilmail/blob/main/JS/Event%20loop.md)
+9. [Event Loop](https://github.com/happy-wook-kim/maeilmail/blob/main/JS/Event%20Loop.md)
 
 ### REACT
 1. [Virtual DOM](https://github.com/happy-wook-kim/maeilmail/blob/main/REACT/Virtual%20DOM.md)
