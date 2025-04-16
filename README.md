@@ -20,6 +20,7 @@
 4. [상태 관리](https://github.com/happy-wook-kim/maeilmail/blob/main/REACT/State%20Management.md)
 5. [Error Boundary](https://github.com/happy-wook-kim/maeilmail/blob/main/REACT/Error%20Boundary.md)
 6. [useRef](https://github.com/happy-wook-kim/maeilmail/blob/main/REACT/useRef.md)
+7. [Next.js](https://github.com/happy-wook-kim/maeilmail/blob/main/REACT/Next.js.md)
 
 ### NETWORK
 1. [HTTP](https://github.com/happy-wook-kim/maeilmail/blob/main/NETWORK/HTTP.md)
