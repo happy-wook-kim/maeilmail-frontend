@@ -15,6 +15,7 @@
 10. [Module Bundler](https://github.com/happy-wook-kim/maeilmail/blob/main/JS/Module%20Bundler.md)
 11. [Functional Programming](https://github.com/happy-wook-kim/maeilmail/blob/main/JS/Functional%20Programming.md)
 12. [Floating Point](https://github.com/happy-wook-kim/maeilmail/blob/main/JS/Floating%20Point.md)
+13. [Tree Shaking](https://github.com/happy-wook-kim/maeilmail/blob/main/JS/Tree%20Shaking.md)
 
 ### REACT
 1. [Virtual DOM](https://github.com/happy-wook-kim/maeilmail/blob/main/REACT/Virtual%20DOM.md)
