@@ -58,3 +58,4 @@
 ### ETC
 1. [JWT](https://github.com/happy-wook-kim/maeilmail/blob/main/ETC/JWT.md)
 2. [Yarn & PNPM](https://github.com/happy-wook-kim/maeilmail/blob/main/ETC/PNPM%20%26%20Yarn%20Berry.md)
+3. [Git Branch Statics](https://github.com/happy-wook-kim/maeilmail/blob/main/ETC/Git%20Branch%20Statics.md)
