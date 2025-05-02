@@ -22,6 +22,7 @@
 12. [Tree Shaking](https://github.com/happy-wook-kim/maeilmail/blob/main/JS/Tree%20Shaking.md)
 13. [Callback Function](https://github.com/happy-wook-kim/maeilmail/blob/main/JS/Callback%20Function.md)
 14. [This](https://github.com/happy-wook-kim/maeilmail/blob/main/JS/this.md)
+15. [Debounce & Throttle](https://github.com/happy-wook-kim/maeilmail/blob/main/JS/Debounce%20%26%20Throttle.md)
 
 ### REACT
 1. [Virtual DOM](https://github.com/happy-wook-kim/maeilmail/blob/main/REACT/Virtual%20DOM.md)
