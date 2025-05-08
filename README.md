@@ -1,4 +1,4 @@
-# maeilmail
+# maeilmail-frontend
 
 <div align="center">
   <div style="display:flex; flex-direction:column;">
