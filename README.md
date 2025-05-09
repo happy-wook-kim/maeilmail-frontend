@@ -2,7 +2,7 @@
 
 <div align="center">
   <div style="display:flex; flex-direction:column;">
-    <h3>프론트엔드 매일 공부</h3>
+    <h3>프론트엔드 매일 메일</h3>
     <img src="https://github.com/user-attachments/assets/50737c24-47fd-4569-a84b-663f4c7ac74a" alt="mail_icon"/>
   </div>
 </div>
