@@ -24,6 +24,7 @@
 14. [This](https://github.com/happy-wook-kim/maeilmail/blob/main/JS/this.md)
 15. [Debounce & Throttle](https://github.com/happy-wook-kim/maeilmail/blob/main/JS/Debounce%20%26%20Throttle.md)
 16. [Function Declaration vs Function Expression](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/JS/Function%20Declaration%20vs%20Function%20Expression.md)
+17. [Event Bubbling & Event Capturing](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/JS/Event%20Bubbling%20%26%20Event%20Capturing.md)
 
 ### REACT
 1. [Virtual DOM](https://github.com/happy-wook-kim/maeilmail/blob/main/REACT/Virtual%20DOM.md)
