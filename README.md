@@ -50,6 +50,7 @@
 4. [SSR](https://github.com/happy-wook-kim/maeilmail/blob/main/WEB/SSR.md)
 5. [CORS](https://github.com/happy-wook-kim/maeilmail/blob/main/WEB/CORS.md)
 6. [Core Web Vitals](https://github.com/happy-wook-kim/maeilmail/blob/main/WEB/Core%20Web%20Vitals.md)
+7. [Test Strategy](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/WEB/Test%20Strategy.md)
 
 ### HTML
 1. [`<link>`](https://github.com/happy-wook-kim/maeilmail/blob/main/HTML/%3Clink%3E.md)
