@@ -37,6 +37,7 @@
 8. [Tanstack Query](https://github.com/happy-wook-kim/maeilmail/blob/main/REACT/Tanstack%20Query.md)
 9. [React Hooks](https://github.com/happy-wook-kim/maeilmail/blob/main/REACT/React%20Hooks.md)
 10. [React Memoization](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/REACT/React%20Memoization.md)
+11. [Server Component](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/REACT/Server%20Component.md)
 
 ### NETWORK
 1. [HTTP](https://github.com/happy-wook-kim/maeilmail/blob/main/NETWORK/HTTP.md)
