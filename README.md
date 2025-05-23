@@ -69,7 +69,7 @@
 
 ### CSS
 1. [Zero Runtime CSS](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/CSS/Zero%20Runtime%20CSS.md)
-2. [Reset CSS & Normalize CSS)[https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/CSS/Reset%20CSS%20%26%20Normalize%20CSS.md]
+2. [Reset CSS & Normalize CSS](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/CSS/Reset%20CSS%20%26%20Normalize%20CSS.md)
 
 ### ETC
 1. [JWT](https://github.com/happy-wook-kim/maeilmail/blob/main/ETC/JWT.md)
