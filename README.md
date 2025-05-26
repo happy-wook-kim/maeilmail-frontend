@@ -40,13 +40,6 @@
 11. [Server Component](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/REACT/Server%20Component.md)
 12. [Concurrent Mode](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/REACT/Concurrent%20Mode.md)
 
-### NETWORK
-1. [HTTP](https://github.com/happy-wook-kim/maeilmail/blob/main/NETWORK/HTTP.md)
-2. [TCP & UDP](https://github.com/happy-wook-kim/maeilmail/blob/main/NETWORK/TCP%20%26%20UDP.md)
-3. [HTTP2 & HTTP3](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/NETWORK/HTTP2%20%26%20HTTP3.md)
-4. [GET & POST](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/NETWORK/GET%20%26%20POST.md)
-5. [CDN](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/NETWORK/CDN.md)
-
 ### WEB
 1. [이미지 최적화](https://github.com/happy-wook-kim/maeilmail/blob/main/WEB/Image%20Optimization.md)
 2. [웹 접근성](https://github.com/happy-wook-kim/maeilmail/blob/main/WEB/Web%20Accessibility.md)
@@ -56,6 +49,13 @@
 6. [Core Web Vitals](https://github.com/happy-wook-kim/maeilmail/blob/main/WEB/Core%20Web%20Vitals.md)
 7. [Test Strategy](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/WEB/Test%20Strategy.md)
 8. [Web Storage](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/WEB/Web%20Storage.md)
+
+### NETWORK
+1. [HTTP](https://github.com/happy-wook-kim/maeilmail/blob/main/NETWORK/HTTP.md)
+2. [TCP & UDP](https://github.com/happy-wook-kim/maeilmail/blob/main/NETWORK/TCP%20%26%20UDP.md)
+3. [HTTP2 & HTTP3](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/NETWORK/HTTP2%20%26%20HTTP3.md)
+4. [GET & POST](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/NETWORK/GET%20%26%20POST.md)
+5. [CDN](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/NETWORK/CDN.md)
 
 ### HTML
 1. [`<link>`](https://github.com/happy-wook-kim/maeilmail/blob/main/HTML/%3Clink%3E.md)
