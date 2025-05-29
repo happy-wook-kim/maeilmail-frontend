@@ -72,8 +72,11 @@
 1. [Zero Runtime CSS](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/CSS/Zero%20Runtime%20CSS.md)
 2. [Reset CSS & Normalize CSS](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/CSS/Reset%20CSS%20%26%20Normalize%20CSS.md)
 
-### ETC
+### SECURITY
 1. [JWT](https://github.com/happy-wook-kim/maeilmail/blob/main/ETC/JWT.md)
-2. [Yarn & PNPM](https://github.com/happy-wook-kim/maeilmail/blob/main/ETC/PNPM%20%26%20Yarn%20Berry.md)
-3. [Git Branch Statics](https://github.com/happy-wook-kim/maeilmail/blob/main/ETC/Git%20Branch%20Statics.md)
-4. [CI & CD](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/ETC/CI%20%26%20CD.md)
+2. [XSS](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/SECURITY/XSS.md)
+
+### ETC
+1. [Yarn & PNPM](https://github.com/happy-wook-kim/maeilmail/blob/main/ETC/PNPM%20%26%20Yarn%20Berry.md)
+2. [Git Branch Statics](https://github.com/happy-wook-kim/maeilmail/blob/main/ETC/Git%20Branch%20Statics.md)
+3. [CI & CD](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/ETC/CI%20%26%20CD.md)
