@@ -76,6 +76,7 @@
 ### SECURITY
 1. [JWT](https://github.com/happy-wook-kim/maeilmail/blob/main/ETC/JWT.md)
 2. [XSS](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/SECURITY/XSS.md)
+3. [CSRF](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/SECURITY/CSRF.md)
 
 ### ETC
 1. [Yarn & PNPM](https://github.com/happy-wook-kim/maeilmail/blob/main/ETC/PNPM%20%26%20Yarn%20Berry.md)
