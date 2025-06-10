@@ -26,6 +26,7 @@
 16. [Function Declaration vs Function Expression](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/JS/Function%20Declaration%20vs%20Function%20Expression.md)
 17. [Event Bubbling & Event Capturing](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/JS/Event%20Bubbling%20%26%20Event%20Capturing.md)
 18. [Iterable](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/JS/Iterable.md)
+19. [Generator](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/JS/Generator.md)
 
 ### REACT
 1. [Virtual DOM](https://github.com/happy-wook-kim/maeilmail/blob/main/REACT/Virtual%20DOM.md)
