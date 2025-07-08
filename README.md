@@ -58,6 +58,7 @@
 3. [HTTP2 & HTTP3](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/NETWORK/HTTP2%20%26%20HTTP3.md)
 4. [GET & POST](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/NETWORK/GET%20%26%20POST.md)
 5. [CDN](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/NETWORK/CDN.md)
+6. [DNS](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/NETWORK/DNS.md)
 
 ### HTML
 1. [`<link>`](https://github.com/happy-wook-kim/maeilmail/blob/main/HTML/%3Clink%3E.md)
