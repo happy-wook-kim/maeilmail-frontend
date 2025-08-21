@@ -41,6 +41,7 @@
 10. [React Memoization](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/REACT/React%20Memoization.md)
 11. [Server Component](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/REACT/Server%20Component.md)
 12. [Concurrent Mode](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/REACT/Concurrent%20Mode.md)
+13. [Loading State](https://github.com/happy-wook-kim/maeilmail-frontend/blob/main/REACT/Loading%20State.md)
 
 ### WEB
 1. [이미지 최적화](https://github.com/happy-wook-kim/maeilmail/blob/main/WEB/Image%20Optimization.md)
